@@ -1,0 +1,1 @@
+mongodb+srv://alexysumbane7:<password>@cursojs01.b7qh1hk.mongodb.net/
